@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-express-boilerplate",
+  "version": "1.0.0",
+  "description": "A restful API boilerplate built with nodejs/express/mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Lima",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
