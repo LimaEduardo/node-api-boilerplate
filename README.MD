@@ -2,6 +2,8 @@
 
 My personal boilerplate for a RESTFUL Node API
 
+Work in progress!
+
 ### Preinstalled dependencies
 
 This boilerplate has some dependencies already installed : 
